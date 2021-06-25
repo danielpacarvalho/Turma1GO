@@ -1,2 +1,2 @@
 # beginerGO
-Simple programs for Go biginers
+Simple programs for Go beginers
